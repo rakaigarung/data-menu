@@ -1,0 +1,199 @@
+{
+  "Coffee": [
+    {
+      "name": "Americano",
+      "price": 15000,
+      "imgUrl": "http://example.com/americano.jpg"
+    },
+    {
+      "name": "Affogato",
+      "price": 15000,
+      "imgUrl": "http://example.com/affogato.jpg"
+    },
+    {
+      "name": "Cafe Latte",
+      "price": 17000,
+      "imgUrl": "http://example.com/cafelatte.jpg"
+    },
+    {
+      "name": "Cappucino",
+      "price": 17000,
+      "imgUrl": "http://example.com/cappucino.jpg"
+    },
+    {
+      "name": "Caramel Machiato",
+      "price": 20000,
+      "imgUrl": "http://example.com/caramelmachiato.jpg"
+    },
+    {
+      "name": "Vietnam Drip",
+      "price": 17000,
+      "imgUrl": "http://example.com/vietnamdrip.jpg"
+    },
+    {
+      "name": "V60 / Japanese",
+      "price": 18000,
+      "imgUrl": "http://example.com/v60japanese.jpg"
+    },
+    {
+      "name": "Tubruk",
+      "price": 10000,
+      "imgUrl": "http://example.com/tubruk.jpg"
+    }
+  ],
+  "Mixology": [
+    {
+      "name": "Blue Ocean",
+      "price": 15000,
+      "imgUrl": "http://example.com/blueocean.jpg"
+    },
+    {
+      "name": "Orange Sky",
+      "price": 15000,
+      "imgUrl": "http://example.com/orangesky.jpg"
+    },
+    {
+      "name": "Black Mocktail",
+      "price": 20000,
+      "imgUrl": "http://example.com/blackmocktail.jpg"
+    },
+    {
+      "name": "Java's Mocktail",
+      "price": 18000,
+      "imgUrl": "http://example.com/javasmocktail.jpg"
+    },
+    {
+      "name": "Black Mocha",
+      "price": 20000,
+      "imgUrl": "http://example.com/blackmocha.jpg"
+    }
+  ],
+  "Non Coffee": [
+    {
+      "name": "Ichigo",
+      "price": 17000,
+      "imgUrl": "http://example.com/ichigo.jpg"
+    },
+    {
+      "name": "Miruku Berry",
+      "price": 17000,
+      "imgUrl": "http://example.com/mirukuberry.jpg"
+    },
+    {
+      "name": "Black Chocolate",
+      "price": 15000,
+      "imgUrl": "http://example.com/blackchocolate.jpg"
+    },
+    {
+      "name": "Red Velvet",
+      "price": 15000,
+      "imgUrl": "http://example.com/redvelvet.jpg"
+    },
+    {
+      "name": "Taro",
+      "price": 15000,
+      "imgUrl": "http://example.com/taro.jpg"
+    },
+    {
+      "name": "Choco Mint",
+      "price": 17000,
+      "imgUrl": "http://example.com/chocomint.jpg"
+    },
+    {
+      "name": "Caramel Sky",
+      "price": 15000,
+      "imgUrl": "http://example.com/caramelsky.jpg"
+    }
+  ],
+  "Tea": [
+    {
+      "name": "Tea",
+      "price": 5000,
+      "imgUrl": "http://example.com/tea.jpg"
+    },
+    {
+      "name": "Lemon Tea",
+      "price": 8000,
+      "imgUrl": "http://example.com/lemontea.jpg"
+    },
+    {
+      "name": "Mint Tea",
+      "price": 8000,
+      "imgUrl": "http://example.com/minttea.jpg"
+    }
+  ],
+  "Food": [
+    {
+      "name": "Ayam Goreng Rakai",
+      "price": 20000,
+      "imgUrl": "http://example.com/ayamgorengrakai.jpg"
+    },
+    {
+      "name": "Ayam Bakar Rakai",
+      "price": 20000,
+      "imgUrl": "http://example.com/ayambakarrakai.jpg"
+    },
+    {
+      "name": "Chicken Katsu",
+      "price": 20000,
+      "imgUrl": "http://example.com/chickenkatsu.jpg"
+    },
+    {
+      "name": "Nasi Goreng Rakai",
+      "price": 15000,
+      "imgUrl": "http://example.com/nasigorengrakai.jpg"
+    },
+    {
+      "name": "Mie Goreng/Kuah",
+      "price": 18000,
+      "imgUrl": "http://example.com/miegorengkuah.jpg"
+    },
+    {
+      "name": "French Fries",
+      "price": 13000,
+      "imgUrl": "http://example.com/frenchfries.jpg"
+    },
+    {
+      "name": "Mendoan",
+      "price": 10000,
+      "imgUrl": "http://example.com/mendoan.jpg"
+    },
+    {
+      "name": "Singkong",
+      "price": 10000,
+      "imgUrl": "http://example.com/singkong.jpg"
+    },
+    {
+      "name": "Cheese Roll",
+      "price": 18000,
+      "imgUrl": "http://example.com/cheeseroll.jpg"
+    },
+    {
+      "name": "Pisang Goreng",
+      "price": 15000,
+      "imgUrl": "http://example.com/pisanggoreng.jpg"
+    },
+    {
+      "name": "Mix Platter",
+      "price": 20000,
+      "imgUrl": "http://example.com/mixplatter.jpg"
+    }
+  ],
+  "Pizza": [
+    {
+      "name": "Margaretha",
+      "price": 35000,
+      "imgUrl": "http://example.com/margaretha.jpg"
+    },
+    {
+      "name": "Pepperoni",
+      "price": 38000,
+      "imgUrl": "http://example.com/pepperoni.jpg"
+    },
+    {
+      "name": "Cheese Melt",
+      "price": 40000,
+      "imgUrl": "http://example.com/cheesemelt.jpg"
+    }
+  ]
+}
